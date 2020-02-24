@@ -1,0 +1,38 @@
+{
+   "test-yantra" : {
+      "emp" : [ {
+         "id" : 1,
+         "firstName" : "Deepjyoti",
+         "lastName" : "Barman",
+         "department" : {
+            "department-id" : 100,
+            "department-name" : "Development"
+         },
+         "contacts" : {
+            "mobile" : [ "+91-7687881748", "+91-6290582451" ]
+         }
+      }, {
+         "id" : 2,
+         "firstName" : "Keerthi",
+         "lastName" : "N.",
+         "department" : {
+            "department-id" : 101,
+            "department-name" : "Quality Assurance"
+         },
+         "contacts" : {
+            "mobile" : [ "+91-9876543210", "+91-9876501234" ]
+         }
+      }, {
+         "id" : 3,
+         "firstName" : "Padmini",
+         "lastName" : "Magar",
+         "department" : {
+            "department-id" : 102,
+            "department-name" : "Design and Architect"
+         },
+         "contacts" : {
+            "mobile" : [ "+91-9764312580", "+91-7182934560" ]
+         }
+      } ]
+   }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<test-yantra>
+    <emp id="1">
+        <firstName>Deepjyoti</firstName>
+        <lastName>Barman</lastName>
+        <department>
+            <department-id>100</department-id>
+            <department-name>Development</department-name>
+        </department>
+        <contacts>
+            <mobile>+91-7687881748</mobile>
+            <mobile>+91-6290582451</mobile>
+        </contacts>
+    </emp>
+    <emp id="2">
+        <firstName>Keerthi</firstName>
+        <lastName>N.</lastName>
+        <department>
+            <department-id>101</department-id>
+            <department-name>Quality Assurance</department-name>
+        </department>
+        <contacts>
+            <mobile>+91-9876543210</mobile>
+            <mobile>+91-9876501234</mobile>
+        </contacts>
+    </emp>
+    <emp id="3">
+        <firstName>Padmini</firstName>
+        <lastName>Magar</lastName>
+        <department>
+            <department-id>102</department-id>
+            <department-name>Design and Architect</department-name>
+        </department>
+        <contacts>
+            <mobile>+91-9764312580</mobile>
+            <mobile>+91-7182934560</mobile>
+        </contacts>
+    </emp>
+</test-yantra>
